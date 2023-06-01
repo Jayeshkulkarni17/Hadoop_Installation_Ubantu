@@ -1,5 +1,7 @@
 # Hadoop_Installation_Ubantu
 
+view this in code format
+
 Follow these steps:
 Use JDK version 1.8 OR Below Version 
 use this command---sudo apt install openjdk-8-jdk
